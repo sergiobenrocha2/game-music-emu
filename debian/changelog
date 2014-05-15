@@ -1,3 +1,13 @@
+game-music-emu (0.6.0-1) unstable; urgency=low
+
+  * new upstream release
+  * updated /debian
+    + compat to 9
+    + control: deb-helper to >= 9 and Standards-Version to 3.9.4
+    + deleted patch folder
+
+ -- Sérgio Benjamim <sergio_br2@yahoo.com.br>  Fri, 16 May 2014 01:13:00 +0100
+
 game-music-emu (0.5.5-2) unstable; urgency=low
 
   * debian/control,

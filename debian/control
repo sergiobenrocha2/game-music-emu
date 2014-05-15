@@ -2,9 +2,9 @@ Source: game-music-emu
 Section: sound
 Priority: optional
 Maintainer: Sebastian Dröge <slomo@debian.org>
-Build-Depends: debhelper (>= 7),
+Build-Depends: debhelper (>= 9),
                cmake (>= 2.6.0)
-Standards-Version: 3.8.4
+Standards-Version: 3.9.4
 Homepage: http://code.google.com/p/game-music-emu
 
 Package: libgme0
