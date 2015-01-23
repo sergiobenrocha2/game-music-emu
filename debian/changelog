@@ -1,3 +1,11 @@
+game-music-emu (0.6.1-1) unstable; urgency=low
+
+  * new upstream release
+    + Add filename param to demo app
+    + Honor LIB_SUFFIX with pkg-config metadata, fixes issue 20
+
+ -- Sérgio Benjamim <sergio_br2@yahoo.com.br>  Fri, 23 Jan 2015 14:02:00 +0100
+
 game-music-emu (0.6.0-1) unstable; urgency=low
 
   * new upstream release
